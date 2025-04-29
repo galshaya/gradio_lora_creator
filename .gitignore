@@ -1,0 +1,6 @@
+.env
+resresize_rename_images.bat
+extract_6shots.bat
+extract_ffmpeg.bat
+extract_scenes.bat
+/vidz
